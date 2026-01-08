@@ -29,3 +29,30 @@ To run this project locally, you only need Docker installed:
    git clone [https://github.com/romanvoloshchak2704-star/Portfolio.git](https://github.com/romanvoloshchak2704-star/Portfolio.git)
    cd Portfolio
 
+Set up Environment Variables: Create a .env file in the root directory:
+Фрагмент коду
+
+   DB_NAME=erp_db
+   DB_USER=postgres
+   DB_PASSWORD=your_password
+   APP_PORT=5000
+   DB_PORT=5432
+
+Run with Docker Compose:
+Bash
+
+    docker-compose up --build -d
+
+    Access the App:
+
+        Frontend: http://localhost:5000
+
+        API Swagger: http://localhost:5000/swagger
+
+📧 Contact
+
+Looking for a dedicated developer? Let's connect!
+
+    Email: [romanvoloshchak2704@gmail.com]
+
+    GitHub: @romanvoloshchak2704-star
