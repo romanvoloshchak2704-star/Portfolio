@@ -175,9 +175,9 @@ export default function Resume() {
               <span className="px-4 py-1.5 bg-slate-100 text-slate-700 rounded-full text-xs uppercase">📍 Україна</span>
             </div>
             <div className="flex justify-center md:justify-start gap-4">
-              <a href="https://github.com/rorshah72" target="_blank" className="p-4 bg-slate-900 text-white rounded-2xl hover:bg-blue-600 transition-all shadow-lg"><FaGithub size={22}/></a>
+              <a href="https://github.com/romanvoloshchak2704-star" target="_blank" className="p-4 bg-slate-900 text-white rounded-2xl hover:bg-blue-600 transition-all shadow-lg"><FaGithub size={22}/></a>
               <a href="https://t.me/rorshah72" target="_blank" className="p-4 bg-blue-500 text-white rounded-2xl hover:bg-blue-600 transition-all shadow-lg"><FaTelegram size={22}/></a>
-              <a href="mailto:vaman@example.com" className="p-4 bg-white text-slate-600 border border-slate-200 rounded-2xl hover:text-blue-600 transition-all shadow-sm"><FaEnvelope size={22}/></a>
+              <a href="mailto:romanvoloshchak2704@gmail.com" className="p-4 bg-white text-slate-600 border border-slate-200 rounded-2xl hover:text-blue-600 transition-all shadow-sm"><FaEnvelope size={22}/></a>
             </div>
           </div>
         </header>
@@ -291,7 +291,7 @@ export default function Resume() {
               </div>
               <h3 className="font-black text-xl mb-2 text-slate-900">На зв'язку?</h3>
               <p className="text-sm text-slate-500 mb-8 opacity-80">Завжди відкритий до цікавих пропозицій та Open Source проєктів.</p>
-              <a href="mailto:vaman@example.com" className="block w-full py-4 bg-blue-600 text-white rounded-2xl font-black hover:bg-blue-700 transition-all shadow-lg shadow-blue-200">
+              <a href="mailto:romanvoloshchak2704@gmail.com" className="block w-full py-4 bg-blue-600 text-white rounded-2xl font-black hover:bg-blue-700 transition-all shadow-lg shadow-blue-200">
                   Надіслати Email
               </a>
             </div>
