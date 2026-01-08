@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ERP.API/ERP.API.csproj" />
+  <Project Path="ERP.Data/ERP.Data.csproj" />
+  <Project Path="ERP.Domain/ERP.Domain.csproj" />
+</Solution>

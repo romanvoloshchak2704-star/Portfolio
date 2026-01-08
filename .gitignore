@@ -1,0 +1,12 @@
+# .NET
+bin/
+obj/
+out/
+.vscode/
+
+# Docker
+.dockerignore
+
+# Секрети (якщо з'являться)
+*.user
+*.suo

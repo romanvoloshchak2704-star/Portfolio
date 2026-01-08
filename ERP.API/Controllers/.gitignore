@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+appsettings.Development.json
+
+# Angular
+node_modules/
+dist/
+.angular/
+
+# Docker & OS
+.env
+.DS_Store
