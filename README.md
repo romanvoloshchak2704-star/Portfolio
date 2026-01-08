@@ -30,7 +30,7 @@ To run this project locally, you only need Docker installed:
    cd Portfolio
 
 Set up Environment Variables: Create a .env file in the root directory:
-Фрагмент коду
+
 
    DB_NAME=erp_db
    DB_USER=postgres
@@ -53,6 +53,6 @@ Bash
 
 Looking for a dedicated developer? Let's connect!
 
-    Email: [romanvoloshchak2704@gmail.com]
+    Email: romanvoloshchak2704@gmail.com
 
     GitHub: @romanvoloshchak2704-star
